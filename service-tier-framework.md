@@ -1,4 +1,4 @@
-# Service Tier Framework
+# Service Tiers
 
 ## Overview
 
